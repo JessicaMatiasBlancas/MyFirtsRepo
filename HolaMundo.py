@@ -1,1 +1,1 @@
-print (HolaMundo)
+print ("HolaMundo");
